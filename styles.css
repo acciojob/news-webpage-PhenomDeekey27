@@ -1,1 +1,67 @@
 /*  your css code here. If applicable */
+*
+{
+    padding:0px;
+    margin: 0px;
+    
+    
+    
+}
+body
+{
+    background-color: #f5f5f5;
+}
+
+nav{
+    background-color: #011e29;
+    text-align: center;
+    color:white;
+    height:50px;
+    padding:20px
+
+}
+.part-1 
+{
+    padding: 23px;
+    background-color:white;
+   
+    margin-left: 57px;
+    margin-top: 10px;
+    width: 230px;
+    border: 1px solid;
+    border-radius: 20px;
+
+}
+.part-1 li
+{
+    padding:13px 63px;
+    margin-left: 37px ;
+}
+.part-2
+{
+    width: 417px;
+    margin-left: 417px;
+    margin-top: -207px;
+    border: 1px solid #dfcfcf;
+    border-radius: 16px;
+    padding: 45px;
+    background-color: white
+}
+.part-2 h1
+{
+    text-align: center;
+}
+.part-3
+{
+    margin-top: -222px;
+    width: 181px;
+    height: 337px;
+    padding: 41px;
+    margin-left: 1005px;
+    border: 1px solid;
+    border-radius: 26px;
+    background-color:white;
+   
+
+}
+
