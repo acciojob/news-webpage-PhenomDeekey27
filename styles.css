@@ -10,10 +10,14 @@ body
 {
     background-color: #f5f5f5;
 }
+header
+{
+    text-align: center;
+}
 
 nav{
     background-color: #011e29;
-    text-align: center;
+    
     color:white;
     height:50px;
     padding:20px
